@@ -36,7 +36,7 @@ Reload插件。
 #### 使用方法示例：
 **/realtime timezone set GMT+8** - 将时区设置为GMT+8。
 
-**/realtime timezone set CST** - 将时区设置为JST。
+**/realtime timezone set CST** - 将时区设置为中国标准时间。
 
 **/realtime timezone set Asia/Shanghai** - 将时区设置为Asia/Shanghai。
 ### /realtime timezone get
