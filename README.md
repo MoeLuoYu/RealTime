@@ -1,7 +1,8 @@
 #该Readme已被转换为Simplified Chinese版本，如需Traditional Chinese版本請轉至https://github.com/Huanying04/RealTime
+
 这个Minecraft插件可以使你的Minecraft游戏时间与世界时间同步！
 
-巴哈上的文: https://forum.gamer.com.tw/C.php?bsn=18673&snA=187185&tnum=4&subbsn=14
+巴哈上的文章: https://forum.gamer.com.tw/C.php?bsn=18673&snA=187185&tnum=4&subbsn=14
 # 使用方法
 将插件的jar档放至服务器的plugins文件夹即可。
 ![folder](https://truth.bahamut.com.tw/s01/202010/ecca15193f6781bdebf2262609fa387b.PNG)
@@ -35,7 +36,7 @@ Reload插件。
 #### 使用方法示例：
 **/realtime timezone set GMT+8** - 将时区设置为GMT+8。
 
-**/realtime timezone set JST** - 将时区设置为JST。
+**/realtime timezone set CST** - 将时区设置为JST。
 
 **/realtime timezone set Asia/Shanghai** - 将时区设置为Asia/Shanghai。
 ### /realtime timezone get
